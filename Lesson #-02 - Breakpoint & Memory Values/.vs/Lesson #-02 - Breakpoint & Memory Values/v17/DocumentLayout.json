@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #-02 - Breakpoint \u0026 Memory Values\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC5BCAB-86ED-444B-9357-F9CC1E21FAC8}|Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.vcxproj|F:\\Programming Using C\u002B\u002B Level 2\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDC5BCAB-86ED-444B-9357-F9CC1E21FAC8}|Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.vcxproj|solutionrelative:Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #-02 - Breakpoint \u0026 Memory Values.cpp",
+              "DocumentMoniker": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp",
+              "RelativeDocumentMoniker": "Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp",
+              "ToolTip": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp",
+              "RelativeToolTip": "Lesson #-02 - Breakpoint \u0026 Memory Values\\Lesson #-02 - Breakpoint \u0026 Memory Values.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T19:41:44.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
