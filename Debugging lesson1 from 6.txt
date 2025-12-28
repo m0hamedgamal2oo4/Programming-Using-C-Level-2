@@ -1,0 +1,15 @@
+Debugging C++ Code
+ 
+ Lesson #01 - What is Debugging & Why? (5:59)
+ 
+ Lesson #02 - Breakpoint & Memory Values (14:37)
+ 
+ Lesson #03 - More about Breakpoints (6:32)
+ 
+ Lesson #04 - Autos Window (4:43)
+ 
+ Lesson #05 - Quick Watch Window (8:55)
+ 
+ Lesson #06 - Changing Values in Debugging Mode (3:02)
+ 
+ Lesson #07 - Step Into/Over/Out (5:48)

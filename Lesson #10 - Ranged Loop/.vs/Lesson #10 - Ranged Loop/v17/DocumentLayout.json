@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #10 - Ranged Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC47F44-5ADD-4C3E-A567-4554ED5CA8FD}|Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.vcxproj|F:\\Programming Using C\u002B\u002B Level 2\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EC47F44-5ADD-4C3E-A567-4554ED5CA8FD}|Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.vcxproj|solutionrelative:Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #10 - Ranged Loop.cpp",
+              "DocumentMoniker": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp",
+              "RelativeDocumentMoniker": "Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp",
+              "ToolTip": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp",
+              "RelativeToolTip": "Lesson #10 - Ranged Loop\\Lesson #10 - Ranged Loop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T14:50:52.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
