@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #21 - Automatic Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22663251-6859-4E81-9C65-03A336D797A9}|Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.vcxproj|F:\\Programming Using C\u002B\u002B Level 2\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22663251-6859-4E81-9C65-03A336D797A9}|Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.vcxproj|solutionrelative:Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #21 - Automatic Variables.cpp",
+              "DocumentMoniker": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp",
+              "RelativeDocumentMoniker": "Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp",
+              "ToolTip": "F:\\Programming Using C\u002B\u002B Level 2\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp*",
+              "RelativeToolTip": "Lesson #21 - Automatic Variables\\Lesson #21 - Automatic Variables.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T18:53:20.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
